@@ -7,5 +7,6 @@ https://medium.com/@meetalpa/how-to-do-sentiment-analysis-using-azure-data-facto
 2. Set up repo using  - https://github.com/alpaBuddhabhatti/CloudBrew2022/ 
 3. Sep up Key Vault secrets for Soueces such as Azure Blob storeage, Azure SQL DB etc
 4. Access policy for your ADF.
+5. ADF needs to have Data Contributor access for Your Azure Storage Account
 
 
